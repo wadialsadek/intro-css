@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+article{
+    margin: 10px;
+    background-color: rgb(185, 146, 221);
+}
+/* #second-article {
+    display: none; 
+    visibility: hidden;
+} */

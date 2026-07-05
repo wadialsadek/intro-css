@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+}
+
+.head{
+    color: rgb(238, 146, 7);
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    border: 20px 40px;
+    border-radius: 20px;
+    margin: 20px;
+}

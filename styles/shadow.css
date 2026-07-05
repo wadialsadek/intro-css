@@ -1,0 +1,18 @@
+.blog {
+    background-color: #fab7b7;
+    width: 400px;
+    margin: 50px;
+    box-shadow: 20px 20px 30px black;
+}
+#header {
+    background-color: #9fecc6;
+    background-image: url('/styles/boikhata.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 300px;
+}
+#header h1{
+    text-align: center;
+    padding-top: 50px;
+}
